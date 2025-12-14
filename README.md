@@ -1,5 +1,14 @@
 # Task Management System
 
+[![Backend API](https://img.shields.io/badge/Backend-Live-success?style=for-the-badge&logo=render)](https://task-management-system-oafy.onrender.com)
+
+## 🌐 **LIVE BACKEND API**
+**🚀 [Backend API](https://task-management-system-oafy.onrender.com)** - Node.js + Express + MongoDB
+
+> **Note:** Frontend deployment coming soon!
+
+---
+
 A full-stack task management application built with React, Node.js, Express, and MongoDB.
 
 ## Features
@@ -84,4 +93,4 @@ MIT License
 
 ---
 
-**Made with ❤️ by Keshav**
+**Made with ❤️ by Keshav** | [Backend API](https://task-management-system-oafy.onrender.com)
